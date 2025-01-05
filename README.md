@@ -22,11 +22,26 @@
     <a href='https://youtu.be/zX881Zx03o4?si=t7j_CJMzeE4g9jYJ'><img src='https://badges.aleen42.com/src/youtube.svg'></a>
 </div>
 
-https://hyunsoocha.github.io/perse/static/images/teaser_pp.mp4
-
-<h3>TL;DR: Given a reference portrait image input, PERSE generates an animatable 3D personalized avatar with disentangled and editable control over various facial attributes.</h3>
+<video
+    poster="assets/teaser_pp.webp"
+    id="video_teaser"
+    autoplay
+    muted
+    playsinline
+    loop
+    style="width: 100%; object-fit: cover"
+    >
+    <source src="assets/teaser_pp.mp4" type="video/mp4" />
+</video>
+<h4 class="subtitle has-text-centered" style="margin-top: 5px">
+TL;DR: Given a reference portrait image input, PERSE generates an
+animatable 3D personalized avatar with disentangled and editable
+control over various facial attributes.
+</h4>
 
 </div>
+
+    
 
 ## 📣 News
 - **`2024.12.31`**:  👏 [AK](https://x.com/_akhaliq/status/1874090429077217506) and [MrNeRF](https://x.com/janusch_patas/status/1874005568278716561) introduced our work! Thank you for sharing it.
