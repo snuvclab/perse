@@ -22,17 +22,8 @@
     <a href='https://youtu.be/zX881Zx03o4?si=t7j_CJMzeE4g9jYJ'><img src='https://badges.aleen42.com/src/youtube.svg'></a>
 </div>
 
-<video
-    poster="assets/teaser_pp.webp"
-    id="video_teaser"
-    autoplay
-    muted
-    playsinline
-    loop
-    style="width: 100%; object-fit: cover"
-    >
-    <source src="assets/teaser_pp.mp4" type="video/mp4" />
-</video>
+https://github.com/user-attachments/assets/9e03af7e-b8a9-4e5e-bdf6-84d0a1ac7dd8
+
 <h4 class="subtitle has-text-centered" style="margin-top: 5px">
 TL;DR: Given a reference portrait image input, PERSE generates an
 animatable 3D personalized avatar with disentangled and editable
