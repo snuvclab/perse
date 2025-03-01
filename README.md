@@ -13,7 +13,7 @@
 </div>
 
 <div align='Center'>
-<i><strong><a href='https://arxiv.org/abs/2412.21206' target='_blank'>arXiv 2024</a></strong></i>
+<i><strong><a href='https://arxiv.org/abs/2412.21206' target='_blank'>CVPR 2025</a></strong></i>
 </div>
 
 <div align='Center'>
@@ -35,6 +35,7 @@ control over various facial attributes.
 </div>
 
 ## 📣 News
+- **`2025.02.27`**:  🎉 PERSE got accepted into CVPR 2025!
 - **`2024.12.31`**:  👏 [AK](https://x.com/_akhaliq/status/1874090429077217506) and [MrNeRF](https://x.com/janusch_patas/status/1874005568278716561) introduced our work! Thank you for sharing it.
 - **`2024.12.30`**:  🎉 We release [paper](https://arxiv.org/abs/2412.21206) and [project page](https://hyunsoocha.github.io/perse/).
 
