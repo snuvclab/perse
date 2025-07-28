@@ -1,0 +1,7 @@
+__pycache__/
+code/avatar-model/flame/FLAME2020/
+code/dataset-generator/portrait-champ/annotator/ckpts/
+code/dataset-generator/portrait-champ/data/
+code/dataset-generator/portrait-champ/pretrained_models/
+submodules/
+data/
